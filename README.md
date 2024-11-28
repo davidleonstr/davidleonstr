@@ -1,4 +1,3 @@
-
 # ¡Hola, soy David! 👋
 Soy un estudiante de desarrollo de software.  
 Soy autodidacta y me gusta aprender en base a retos.
