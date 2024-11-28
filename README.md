@@ -18,11 +18,13 @@ Me destaco por implementar buenas prácticas como mantener el código limpio, re
   <img src="https://drive.google.com/uc?id=1imrPmLs--5COHr8P0LDvNz_kSyJuhrpu" alt="MySQL" width="64" height="64">
   <img src="https://drive.google.com/uc?id=1GTUeHZMpnQAZYarPr1ohbCeEDb62CKD0" alt="Node.js" width="64" height="64">
   <img src="https://drive.google.com/uc?id=1j4i27ObbM_wN0rOIh2ctJML6lxBQLAlw" alt="Git" width="64" height="64">
+  <img src="https://drive.google.com/uc?id=1umCx1sJqWAT4Lw_vnGeoNj-72N2eBZqo" alt="React" width="72" height="64">
+  <img src="https://drive.google.com/uc?id=1P07HUQlCLP7Fs2gwBPKAWooIHJvB98UA" alt="Flask" width="64" height="64">
 </p>
 
 ##
-| HTML      | CSS | JavaScript            | PHP      | Python    | MongoDB    | PostgreSQL | MySQL    | Node.js | Git     |
-|-----------|------------|----------------|----------|-----------|------------|------------|----------|---------|---------|
+| HTML      | CSS | JavaScript            | PHP      | Python    | MongoDB    | PostgreSQL | MySQL    | Node.js | Git     | React | Flask |
+|-----------|------------|----------------|----------|-----------|------------|------------|----------|---------|---------|-------|-------|
 
 
 
