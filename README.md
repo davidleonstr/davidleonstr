@@ -3,7 +3,7 @@ Soy un estudiante de desarrollo de software.
 Soy autodidacta y me gusta aprender en base a retos.
 
 ## 🚀 Sobre mí
-Me destaco por implementar buenas prácticas como mantener el código limpio, realizar una validación rigurosa y garantizar la seguridad de los datos. Prefiero soluciones directas y eficientes, siempre buscando optimizar la experiencia del usuario y la escalabilidad de los sistemas en los que trabajo.
+Soy una persona curiosa, autodidacta y meticulosa. Me gusta entender a fondo lo que hago, trabajar con orden y lógica, y priorizar la calidad sobre la rapidez, sin perder el equilibrio entre ambas. Siempre busco mejorar y aprender algo nuevo, porque estancarme me inquieta más que equivocarme.
 
 ## 🛠 Habilidades
 <p style="display: flex; justify-content: center; gap: 10px;">
