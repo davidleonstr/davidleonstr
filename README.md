@@ -19,7 +19,7 @@ Soy una persona curiosa y meticulosa. Me gusta entender a fondo lo que hago, tra
   <img src="https://drive.google.com/uc?id=1j4i27ObbM_wN0rOIh2ctJML6lxBQLAlw" alt="Git" width="64" height="64">
   <img src="https://drive.google.com/uc?id=1umCx1sJqWAT4Lw_vnGeoNj-72N2eBZqo" alt="React" width="72" height="64">
   <img src="https://drive.google.com/uc?id=1P07HUQlCLP7Fs2gwBPKAWooIHJvB98UA" alt="Flask" width="64" height="64">
-  <img src="https://drive.google.com/uc?id=1CldUkNnEEhvJcGeO2ombog_lcCrW_Kgp" alt="Tailwind CSS" width="64" height="64">
+  <img src="https://drive.google.com/uc?id=1CldUkNnEEhvJcGeO2ombog_lcCrW_Kgp" alt="Tailwind CSS" width="105" height="64">
 </p>
 
 ##
