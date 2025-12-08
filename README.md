@@ -13,21 +13,9 @@
   
 </div>
 
----
-
 <div align="center">
   
   ### *"La curiosidad y las ganas de aprender son mis superpoderes"*
-  
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=davidleonstr&theme=tokyonight)
   
 </div>
 
