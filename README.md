@@ -1,102 +1,81 @@
 <div align="center">
 
-  # ¡Hola, soy David!
+# David León
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Autodidacta+Apasionado;Siempre+Aprendiendo)
+
+[![Profile views](https://komarev.com/ghpvc/?username=davidleonstr&label=Visitas&color=0e75b6&style=flat)](https://github.com/davidleonstr)
+[![GitHub followers](https://img.shields.io/github/followers/davidleonstr?label=Seguidores&style=social)](https://github.com/davidleonstr)
 
 </div>
 
-<div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Software;Autodidacta+Apasionado;Siempre+Aprendiendo)
-  
-  <img src="https://komarev.com/ghpvc/?username=davidleonstr&label=Profile%20views&color=0e75b6&style=flat" alt="davidleonstr" />
-  <img src="https://img.shields.io/github/followers/davidleonstr?label=Followers&style=social" alt="GitHub Badge">
-  
-</div>
 
-<div align="center">
-  
-  ### *"La curiosidad y las ganas de aprender son mis superpoderes"*
-  
-</div>
+## Sobre mí
 
----
+Desarrollador de software autodidacta con pasión por crear soluciones elegantes y eficientes. Me especializo en desarrollo full stack, con enfoque en aplicaciones web modernas y escalables. Mi filosofía se centra en el aprendizaje continuo y la implementación de mejores prácticas en cada proyecto.
 
-## Arsenal Tecnológico
+## Experiencia Técnica
 
-<div align="center">
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 ### Bases de Datos
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
-### Herramientas & SO
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Herramientas & Entorno
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidleonstr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleonstr&layout=compact&langs_count=8&theme=github_dark&border_color=30363d"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidleonstr&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
+
+## Principios de Desarrollo
+
+**Código Limpio**: Priorizo la legibilidad y mantenibilidad del código sobre soluciones complejas.
+
+**Aprendizaje Continuo**: Cada proyecto es una oportunidad para dominar nuevas tecnologías y metodologías.
+
+**Pragmatismo**: Busco el equilibrio entre la perfección técnica y la entrega de valor real.
+
+**Colaboración**: Creo en el poder del código abierto y el intercambio de conocimiento.
+
+## Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidleonstr)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidalfonsoleoncarmona@gmail.com)
 
 </div>
 
----
-
-## Contribuciones
-
 <div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=davidleonstr&theme=tokyo-night&hide_border=true)
-  
+  <h4>⭐ Si encuentras valor en mis proyectos, considera darles una estrella</h4>
 </div>
 
----
-
-## Filosofía de Desarrollo
 
 <div align="center">
-
-> ### *"No se trata de ser perfecto, sino de disfrutar lo que haces."*
-
-| Principio | Descripción |
-|:---------:|:------------|
-| **Precisión** | Entender lo suficiente para implementar bien, perfeccionar sobre la marcha |
-| **Curiosidad** | Cada error es una oportunidad de aprender algo nuevo |
-| **Balance** | Calidad y eficiencia pueden coexistir perfectamente |
-| **Crecimiento** | El estancamiento es mi mayor enemigo |
-
-</div>
-
----
-
-<div align="center">
-  
-  ### ¡Gracias por visitar mi perfil!
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-  
-  **Si te gusta mi trabajo, ¡no olvides darle una estrella a mis repositorios!**
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidleonstr)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidalfonsoleoncarmona@gmail.com)
-  
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 </div>
