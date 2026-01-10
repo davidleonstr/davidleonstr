@@ -40,28 +40,6 @@ Desarrollador de software autodidacta con pasión por crear soluciones elegantes
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidleonstr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidleonstr&layout=compact&langs_count=8&theme=github_dark&border_color=30363d"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidleonstr&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
-## Principios de Desarrollo
-
-**Código Limpio**: Priorizo la legibilidad y mantenibilidad del código sobre soluciones complejas.
-
-**Aprendizaje Continuo**: Cada proyecto es una oportunidad para dominar nuevas tecnologías y metodologías.
-
-**Pragmatismo**: Busco el equilibrio entre la perfección técnica y la entrega de valor real.
-
-**Colaboración**: Creo en el poder del código abierto y el intercambio de conocimiento.
-
 ## Contacto
 
 <div align="center">
